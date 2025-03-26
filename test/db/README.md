@@ -1,0 +1,1 @@
+Initialization scripts for a large PostgreSQL database to test this MCP server with.
